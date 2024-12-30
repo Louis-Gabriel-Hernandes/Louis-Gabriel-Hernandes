@@ -3,7 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+a+web+developer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+a+android+developer">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+also+a+game+developer">
 </p>
 
 <h3 align="center">
