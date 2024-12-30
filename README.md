@@ -59,7 +59,7 @@
   <img src="https://raw.githubusercontent.com/handeebrar/handeebrar/master/img/study.gif" alt="Coding" height="200" style="margin: 10px;" />
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=sakshi1658" alt="GitHub Streak" height="200" style="margin: 10px;" />
+    <img src="https://streak-stats.demolab.com/?user=Louis-Gabriel-Hernandes" alt="GitHub Streak" height="200" style="margin: 10px;" />
   </a>
 </div>
 
