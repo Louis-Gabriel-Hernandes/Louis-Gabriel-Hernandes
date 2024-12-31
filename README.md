@@ -26,7 +26,7 @@
 ---
 
 ### About Me
-- 🌱 Currently working on my **portfolio website**.
+- 🌱 Currently working on my **portfolio**.
 - 💬 Ask me about **C#, Unity, Kotlin, Android Studio, and related computer technologies**.
 - 📫 Reach me at: **Louisteamtdm321@gmail.com**
 - ⚡ Fun fact: **I make jokes when I’m uncomfortable!**
